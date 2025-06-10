@@ -16,7 +16,9 @@ Execute 1000-episode training with epsilon decay (1.0→0.01) and progress monit
 
 ## Results
 ### Training Performance & Metrics
-Successfully trained DQN agent over 1000 episodes achieving consistent successful landings with average rewards exceeding +200 in final episodes, compared to random agent baseline of ~-200. Learning progression became evident after ~300 episodes with >90% landing success rate in final 100 episodes. Training curves demonstrated clear convergence without catastrophic failutres.
+
+Successfully trained DQN agent over 1000 episodes achieving consistent successful landings with average rewards exceeding +200 in final episodes, compared to random agent baseline of ~-200. Learning progression became evident after ~300 episodes with >90% landing success rate in final 100 episodes. Training curves demonstrated clear convergence without catastrophic failures.
+
 
 ### Video Demonstrations:
 Random Agent Performance - Chaotic, unsuccessful landing attempts:
@@ -26,5 +28,3 @@ https://drive.google.com/file/d/1bz5Xb0ZapV51egzPX9amAfw87DnP25Gl/view?usp
 Trained Agent Performance - Smooth, controlled successful landings
 https://drive.google.com/file/d/11UBto2JWfE6pzRLac5lKrG4KzIlyotjF/view?usp=sh
 aring
-
-
