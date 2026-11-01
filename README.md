@@ -25,6 +25,8 @@ Random Agent Performance - Chaotic, unsuccessful landing attempts:
 https://drive.google.com/file/d/1bz5Xb0ZapV51egzPX9amAfw87DnP25Gl/view?usp
 =sharing
 
+#Done By: Srajan Byndoor and Snehar Kaur Bajwa
+
 Trained Agent Performance - Smooth, controlled successful landings
 https://drive.google.com/file/d/11UBto2JWfE6pzRLac5lKrG4KzIlyotjF/view?usp=sh
 aring
